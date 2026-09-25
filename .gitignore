@@ -1,0 +1,5 @@
+# Compiled programs and generated solutions
+gaussian
+*.exe
+*.sol
+__pycache__/
